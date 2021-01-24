@@ -7,6 +7,5 @@ a single function that's attached to the `globalThis` object.
 
 ## API
 
-### globalThis.transformSolid(code: string, options?: { solid?: BabelPresetSolidOptions,
-babel?: BabelTransformOption) => BabelTransformResult
+### globalThis.transformSolid(code: string, options?: { solid?: BabelPresetSolidOptions, babel?: BabelTransformOption) => BabelTransformResult
 
